@@ -135,14 +135,18 @@ xl2tpd
 
 
 ## Desktop Environment
+plasma
 
 ## GUI APPs
 
 # Browser
+chromium
 
 # Store
 
+
 # Media player
+vlc
 
 ## Themeing
 
@@ -156,6 +160,7 @@ noto-fonts-emoji #essential
 ## Services
 wireplumber #essential
 networkmanager #essential
+sddm
 
 ## Startup
 plymouth
