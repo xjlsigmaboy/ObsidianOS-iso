@@ -1,3 +1,4 @@
+# Base
 base
 cloud-init
 hyperv
@@ -10,8 +11,9 @@ pv
 qemu-guest-agent
 syslinux
 virtualbox-guest-utils-nox
+### ObsidianOS ###
+## ISO Requirements
 alsa-utils
-
 amd-ucode
 arch-install-scripts
 archinstall
@@ -130,32 +132,37 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+#zsh (additional, Skip for stability)
 
 
+## Desktop Environment
 plasma
 
+## GUI APPs
 
+# Browser
 chromium
 
+# Store
 
 
+# Media player
 vlc
 pipewire
 
+## Themeing
+
+# Fonts
+noto-fonts 
+noto-fonts-emoji 
+
+# Themes
 
 
-
+## Services
 wireplumber
 networkmanager
 sddm
 
+## Startup
 plymouth
-
-
-
-
-dbus-daemon-units
-qt6-multimedia-ffmpeg
-pipewire-jack
-noto-fonts-emoji
-noto-fonts
