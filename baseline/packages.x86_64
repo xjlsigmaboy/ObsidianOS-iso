@@ -17,6 +17,7 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
+archlinux-keyring
 b43-fwcutter
 bash
 bcachefs-tools
@@ -152,15 +153,15 @@ pipewire
 ## Themeing
 
 # Fonts
-noto-fonts #essential
-noto-fonts-emoji #essential
+noto-fonts 
+noto-fonts-emoji 
 
 # Themes
 
 
 ## Services
-wireplumber #essential
-networkmanager #essential
+wireplumber
+networkmanager
 sddm
 
 ## Startup
