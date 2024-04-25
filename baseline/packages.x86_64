@@ -1,3 +1,4 @@
+### base
 base
 cloud-init
 hyperv
@@ -12,6 +13,8 @@ syslinux
 virtualbox-guest-utils-nox
 alsa-utils
 
+### ObsidianOS
+## ISO Requirements
 amd-ucode
 arch-install-scripts
 archinstall
@@ -131,31 +134,35 @@ wvdial
 xfsprogs
 xl2tpd
 
+##Desktop
 
+#KDE
 plasma
 
-
+#browser
 chromium
 
 
-
+#media player
 vlc
 pipewire
 
 
 
-
+#services
 wireplumber
 networkmanager
 sddm
 
+#bootsplash
 plymouth
 
+#fonts
+noto-fonts-emoji
+noto-fonts
 
-
-
+#other
 dbus-daemon-units
 qt6-multimedia-ffmpeg
 pipewire-jack
-noto-fonts-emoji
-noto-fonts
+
