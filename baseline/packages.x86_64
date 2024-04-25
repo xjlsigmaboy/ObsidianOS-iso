@@ -133,26 +133,25 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+#zsh (skip for stability)
+
 
 ##Desktop
 
 #KDE
-plasma
+plasma-desktop
 
 #browser
 chromium
 
-
 #media player
 vlc
-pipewire
-
-
 
 #services
 wireplumber
 networkmanager
 sddm
+pipewire
 
 #bootsplash
 plymouth
@@ -161,8 +160,35 @@ plymouth
 noto-fonts-emoji
 noto-fonts
 
-#other
+## Xorg
+arandr
+xclipxdotool
+xf86-input-evdev
+xf86-input-libinput
+xf86-input-synaptics
+#xf86-input-vmmouse
+xf86-input-void
+xf86-video-amdgpu
+xf86-video-intel
+xf86-video-nouveau
+#xf86-video-openchrome**
+xf86-video-qxl
+xf86-video-vmware
+xorg-server
+xorg-xkill
+xorg-xmessage
+xorg-xprop
+xorg-xrdb
+xorg-xset
+xterm
+xwallpaper
+xf86-input-wacom
+
+
+##other
 dbus-daemon-units
 qt6-multimedia-ffmpeg
 pipewire-jack
+
+
 
