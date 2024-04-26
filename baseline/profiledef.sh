@@ -18,4 +18,5 @@ airootfs_image_tool_options=('-zlzma,109' -E 'ztailpacking,fragments,dedupe')
 bootstrap_tarball_compression=(zstd -c -T0 --long -19)
 file_permissions=(
   ["/etc/shadow"]="0:0:400"
+  ["/etc/gshadow"]="0:0:400"
 )
