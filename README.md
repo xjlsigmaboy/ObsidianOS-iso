@@ -12,5 +12,5 @@ git clone https://github.com/obsidiandt/ObsidianOS-iso
 ```
 ### 3. Build
 ```
-sudo mkarchiso -v -w baseline/ -o output/
+sudo mkarchiso -v -w baseline/ -o output/ baseline/
 ```
