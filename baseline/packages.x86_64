@@ -139,7 +139,7 @@ xl2tpd
 ##Desktop
 
 #KDE
-plasma-desktop
+plasma
 
 #browser
 chromium
