@@ -197,7 +197,7 @@ gdk4
 qt6-wayland 
 
 # screen recorder
-obs-studio
+# obs-studio 
 
 # remote share
 wayvnc
