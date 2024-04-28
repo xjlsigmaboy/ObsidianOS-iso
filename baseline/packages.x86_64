@@ -191,4 +191,16 @@ qt6-multimedia-ffmpeg
 pipewire-jack
 
 
+# Wayland
+xorg-xwayland 
+gdk4
+qt6-wayland 
 
+# screen recorder
+obs-studio
+
+# remote share
+wayvnc
+x11vnc
+openssh
+tigervnc
