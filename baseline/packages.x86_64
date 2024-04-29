@@ -200,7 +200,7 @@ qt6-wayland
 # obs-studio 
 
 # remote share
-wayvnc
-x11vnc
-openssh
-tigervnc
+#wayvnc
+#x11vnc
+#openssh
+#tigervnc
