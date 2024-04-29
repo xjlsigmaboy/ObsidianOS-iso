@@ -162,7 +162,7 @@ noto-fonts
 
 ## Xorg
 arandr
-xclipxdotool
+xdotool
 xf86-input-evdev
 xf86-input-libinput
 xf86-input-synaptics
@@ -192,9 +192,9 @@ pipewire-jack
 
 
 # Wayland
-xorg-xwayland 
-gdk4
-qt6-wayland 
+#xorg-xwayland 
+#gdk4
+#qt6-wayland 
 
 # screen recorder
 # obs-studio 
