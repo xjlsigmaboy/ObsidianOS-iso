@@ -18,7 +18,7 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
-archlinux-keyring
+#archlinux-keyring
 b43-fwcutter
 bash
 bcachefs-tools
@@ -140,6 +140,8 @@ xl2tpd
 
 #KDE
 plasma
+kde-applications-meta
+konsole
 
 #browser
 chromium
@@ -159,9 +161,12 @@ plymouth
 #fonts
 noto-fonts-emoji
 noto-fonts
+ttf-ubuntu-nerd
+ttf-ubuntu-mono-nerd
+ttf-ubuntu-font-family
 
 ## Xorg
-arandr
+#arandr
 #xclipxdotool
 xdotool
 xf86-input-evdev
