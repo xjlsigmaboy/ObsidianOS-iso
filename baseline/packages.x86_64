@@ -191,6 +191,8 @@ dbus-daemon-units
 qt6-multimedia-ffmpeg
 pipewire-jack
 
+# GPUs
+switcheroo
 
 # Wayland
 #xorg-xwayland 
@@ -203,5 +205,10 @@ pipewire-jack
 # remote share
 #wayvnc
 #x11vnc
-#openssh
+openssh
 #tigervnc
+
+# Security
+apparmor
+ufw
+gufw
