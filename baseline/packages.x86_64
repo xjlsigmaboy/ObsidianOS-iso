@@ -143,6 +143,10 @@ plasma
 kde-applications
 konsole
 dolphin
+phonon-qt5-vlc
+pyside6
+cronie
+tesseract-data-ara
 
 #browser
 chromium
@@ -198,7 +202,7 @@ qt6-multimedia-ffmpeg
 pipewire-jack
 neofetch
 cups
-switcheroo
+switcheroo-control
 
 # Wayland
 #xorg-xwayland 
