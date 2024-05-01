@@ -203,6 +203,8 @@ pipewire-jack
 neofetch
 cups
 switcheroo-control
+ntfs-3g
+
 
 # Wayland
 #xorg-xwayland 
