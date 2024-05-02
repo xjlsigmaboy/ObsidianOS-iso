@@ -1,5 +1,5 @@
 NAME="Obsidian OS"
-PRETTY_NAME="Obsidian OS ALPHA rolling-release"
+PRETTY_NAME="ObsidianOS"
 VARIANT="Desktop Edition"
 VARIANT_ID=desktop
 VERSION="ALPHA rolling-release"
