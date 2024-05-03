@@ -141,6 +141,7 @@ xl2tpd
 #KDE
 plasma
 konsole
+kdeconnect
 dolphin
 phonon-qt5-vlc
 pyside6
@@ -160,7 +161,7 @@ sddm
 pipewire
 
 #bootsplash
-plymouth
+#plymouth
 
 #fonts
 noto-fonts-emoji
