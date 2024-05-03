@@ -140,7 +140,6 @@ xl2tpd
 
 #KDE
 plasma
-kde-applications
 konsole
 dolphin
 phonon-qt5-vlc
@@ -191,8 +190,8 @@ xorg-xmessage
 xorg-xprop
 xorg-xrdb
 xorg-xset
-xterm
-xwallpaper
+#xterm
+#xwallpaper
 xf86-input-wacom
 
 
