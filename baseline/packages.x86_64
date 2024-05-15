@@ -199,6 +199,7 @@ xf86-input-wacom
 ##other
 dbus-daemon-units
 qt6-multimedia-ffmpeg
+qt6-multimedia
 pipewire-jack
 neofetch
 cups
