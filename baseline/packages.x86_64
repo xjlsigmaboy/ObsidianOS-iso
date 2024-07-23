@@ -202,7 +202,7 @@ qt6-multimedia-ffmpeg
 qt6-multimedia
 pipewire-jack
 neofetch
-cups
+#cups
 switcheroo-control
 zstd
 
@@ -212,14 +212,9 @@ zstd
 #gdk4
 #qt6-wayland 
 
-# screen recorder
-# obs-studio 
 
 # remote share
-#wayvnc
-#x11vnc
 openssh
-#tigervnc
 
 # Security
 apparmor
