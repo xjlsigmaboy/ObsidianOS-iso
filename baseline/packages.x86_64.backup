@@ -1,8 +1,8 @@
-### base
+# Base
 base
 cloud-init
 hyperv
-linux-lts
+linux
 mkinitcpio
 mkinitcpio-archiso
 open-vm-tools
@@ -11,14 +11,13 @@ pv
 qemu-guest-agent
 syslinux
 virtualbox-guest-utils-nox
-alsa-utils
-
-### ObsidianOS
+### ObsidianOS ###
 ## ISO Requirements
+alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
-#archlinux-keyring
+archlinux-keyring
 b43-fwcutter
 bash
 bcachefs-tools
@@ -133,90 +132,37 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-#zsh (skip for stability)
+#zsh (additional, Skip for stability)
 
 
-##Desktop
-
-#KDE
+## Desktop Environment
 plasma
-konsole
-kdeconnect
-dolphin
-phonon-qt5-vlc
-pyside6
-cronie
-tesseract-data-ara
 
-#browser
+## GUI APPs
+
+# Browser
 chromium
 
-#media player
-vlc
+# Store
 
-#services
+
+# Media player
+vlc
+pipewire
+
+## Themeing
+
+# Fonts
+noto-fonts 
+noto-fonts-emoji 
+
+# Themes
+
+
+## Services
 wireplumber
 networkmanager
 sddm
-pipewire
 
-#bootsplash
-#plymouth
-
-#fonts
-noto-fonts-emoji
-noto-fonts
-ttf-ubuntu-nerd
-ttf-ubuntu-mono-nerd
-ttf-ubuntu-font-family
-
-## Xorg
-#arandr
-#xclipxdotool
-xdotool
-xf86-input-evdev
-xf86-input-libinput
-xf86-input-synaptics
-#xf86-input-vmmouse
-xf86-input-void
-xf86-video-amdgpu
-xf86-video-intel
-xf86-video-nouveau
-#xf86-video-openchrome**
-xf86-video-qxl
-xf86-video-vmware
-xorg-server
-xorg-xkill
-xorg-xmessage
-xorg-xprop
-xorg-xrdb
-xorg-xset
-#xterm
-#xwallpaper
-xf86-input-wacom
-
-
-##other
-dbus-daemon-units
-qt6-multimedia-ffmpeg
-qt6-multimedia
-pipewire-jack
-neofetch
-#cups
-switcheroo-control
-zstd
-
-
-# Wayland
-#xorg-xwayland 
-#gdk4
-#qt6-wayland 
-
-
-# remote share
-openssh
-
-# Security
-apparmor
-ufw
-gufw
+## Startup
+plymouth
