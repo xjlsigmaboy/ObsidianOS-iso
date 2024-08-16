@@ -147,6 +147,16 @@ phonon-qt5-vlc
 pyside6
 cronie
 tesseract-data-ara
+kate
+gwenview
+okular
+partitionmanager
+discover
+plasma-systemmonitor
+ksystemlog
+kcalc
+kclock
+ark
 
 #browser
 chromium
