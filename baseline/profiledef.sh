@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="ObsidianOS-Testing"
-iso_label="Obsidianos-testing-_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="ObsidianOS <github.com/obsidiandt"
-iso_application="ObsidianOS Testing"
+iso_name="ObsidianOS"
+iso_label="ObsidianOS-_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_publisher="Mohamed Tarek <github.com/xjlsigmaboy>"
+iso_application="ObsidianOS"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
