@@ -230,3 +230,6 @@ openssh
 apparmor
 ufw
 gufw
+
+# installer
+calamares
