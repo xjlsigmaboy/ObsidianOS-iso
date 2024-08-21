@@ -2,7 +2,7 @@
 base
 cloud-init
 hyperv
-linux-lts
+linux
 mkinitcpio
 mkinitcpio-archiso
 open-vm-tools
