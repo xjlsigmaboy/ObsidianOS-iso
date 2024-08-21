@@ -126,7 +126,7 @@ usbmuxd
 usbutils
 vim
 vpnc
-wezterm-terminfo
+#wezterm-terminfo
 wireless-regdb
 wireless_tools
 wpa_supplicant
