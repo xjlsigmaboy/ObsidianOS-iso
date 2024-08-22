@@ -50,6 +50,7 @@ foot-terminfo
 fsarchiver
 gnu-netcat
 gpart
+gparted
 gpm
 gptfdisk
 grml-zsh-config
@@ -134,6 +135,7 @@ wvdial
 xfsprogs
 xl2tpd
 #zsh (skip for stability)
+
 
 
 ##Desktop
