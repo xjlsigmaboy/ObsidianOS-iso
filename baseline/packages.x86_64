@@ -210,13 +210,14 @@ xf86-input-wacom
 
 
 ##other
+#cups
 dbus-daemon-units
+neofetch
+pipewire-jack
+switcheroo-control
 qt6-multimedia-ffmpeg
 qt6-multimedia
-pipewire-jack
-neofetch
-#cups
-switcheroo-control
+xdg-desktop-portal-gtk
 yay
 yay-debug
 zstd
