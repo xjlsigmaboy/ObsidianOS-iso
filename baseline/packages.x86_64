@@ -94,6 +94,7 @@ open-iscsi
 openconnect
 openpgp-card-tools
 openvpn
+os-prober
 partclone
 parted
 partimage
