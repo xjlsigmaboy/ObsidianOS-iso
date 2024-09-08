@@ -136,8 +136,6 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-#zsh (skip for stability)
-
 
 
 ##Desktop
@@ -241,3 +239,5 @@ gufw
 # installer
 calamares
 yaml-cpp
+ckbcomp
+mkinitcpio-openswap
