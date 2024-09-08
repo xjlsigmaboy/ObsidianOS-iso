@@ -94,6 +94,7 @@ open-iscsi
 openconnect
 openpgp-card-tools
 openvpn
+os-prober
 partclone
 parted
 partimage
@@ -135,8 +136,6 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-#zsh (skip for stability)
-
 
 
 ##Desktop
@@ -240,3 +239,6 @@ gufw
 # installer
 calamares
 yaml-cpp
+ckbcomp
+mkinitcpio-openswap
+
