@@ -244,3 +244,5 @@ mkinitcpio-openswap
 obsidianos-calamares-settings
 hwinfo
 
+# alpha offline installer
+rsync
